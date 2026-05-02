@@ -72,7 +72,6 @@ plt.plot(x_value, y_value, color='red')
 plt.xlabel("R&D Spend")
 plt.ylabel("Profit")
 plt.title("Linear Regression Fit")
-
 plt.show()
 */
 ```
